@@ -9,7 +9,7 @@
 
 [扒一扒Profiler中这几个“占坑鬼”](https://blog.uwa4d.com/archives/presentandsync.html)
 
-[UWA直播|UGUI性能优化技巧](https://v.qq.com/x/page/l0329fvbrfn.html)
+[UWA直播 UGUI性能优化技巧](https://v.qq.com/x/page/l0329fvbrfn.html)
 
 [Unity 2D 繪圖最佳化概論](http://blog.chunfuchao.com/?p=555&variant=zh-tw)
 
