@@ -1,9 +1,12 @@
 # UI
-* [Unity-UI-Extensions](https://bitbucket.org/UnityUIExtensions/unity-ui-extensions/src/release/) - Unity UGUI 的擴充專案
+* [Unity-UI-Extensions](https://bitbucket.org/UnityUIExtensions/unity-ui-extensions/src/release/) - UGUI 功能擴充專案
 
 # Rendering
 * [Indirect-Rendering-With-Compute-Shaders](https://github.com/ellioman/Indirect-Rendering-With-Compute-Shaders) - 使用 Graphics.DrawMeshInstancedIndirect 的範例
 * [UnityURP-MobileDrawMeshInstancedIndirectExample](https://github.com/ColinLeung-NiloCat/UnityURP-MobileDrawMeshInstancedIndirectExample) - 在 URP 中使用 Graphics.DrawMeshInstancedIndirect 的範例
+
+# Data Visulaization
+* [XCharts](https://github.com/XCharts-Team/XCharts) - 基於 UGUI 的數據可視化插件
 
 # Optimization
 * [zstring](https://github.com/871041532/zstring) - C# 0GC 字串補充方案
